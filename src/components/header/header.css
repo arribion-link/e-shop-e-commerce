@@ -1,0 +1,12 @@
+header{
+    background-color: white;
+    display: flex;
+    justify-content: space-between;
+    padding: 1rem;
+}
+
+header nav ul{
+    list-style-type: none;
+    display: flex;
+    gap: 3em;
+}

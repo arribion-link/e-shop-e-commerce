@@ -1,0 +1,8 @@
+.banner-section{
+    min-height: 30vh;
+    border-radius: 10px;
+    color: white;
+    padding: 1em;
+    margin: 1em;
+    background-color: black;
+}
