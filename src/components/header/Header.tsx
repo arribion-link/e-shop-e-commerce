@@ -20,9 +20,9 @@ const Header = () => {
             </li>
           </ul>
         </nav>
-        <div>
-            <FaMagnifyingGlass />
-            <MdOutlineShoppingCart />
+        <div className="right">
+            <FaMagnifyingGlass size={20} />
+            <MdOutlineShoppingCart size={20} />
             <img src="" alt="profile" />
         </div>
       </header>
