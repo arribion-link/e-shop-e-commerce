@@ -12,6 +12,8 @@
     height: auto;
     max-width: 30em;
     border-radius: 10px;
+    min-height: 20em;
+    background-color: rgb(196, 196, 196);
 }
 
 .cart-btn{
